@@ -13,6 +13,11 @@ Marketing Management student at Gwinnett Technical College with a passion for ma
 - Data Visualization
 
 ## Projects
+### Just-In Vault Collectibles Marketing Plan
+Comprehensive marketing strategy for a collectibles-focused e-commerce business.
+
+### JCar Diecast Competitor Analysis
+Competitive analysis of a leading diecast retailer including SEO, social media, and customer experience recommendations.
 
 ### Collectibles Market Research
 Research and analysis of the collectibles industry, including diecast cars, trading cards, and action figures.
